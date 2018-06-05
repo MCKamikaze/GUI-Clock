@@ -1,0 +1,2 @@
+This is a project I did back when I was studying OOP using Java, you input an hour and a minute and the clock resets to that time and starts ticking.
+It does not give out accurate time, just a fun GUI project for practice.
